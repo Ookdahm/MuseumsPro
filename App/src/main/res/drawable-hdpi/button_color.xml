@@ -20,6 +20,6 @@
       android:centerColor="@color/opaqueLight01"
       android:endColor="@color/opaqueMedium"
         android:angle="0"  />
-    <corners android:radius="6dp" />
+    <corners android:radius="3dp" />
 
 </shape>
